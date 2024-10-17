@@ -10,7 +10,7 @@ I am pursuing a degree in Data Science at the Halıcıoğlu Data Science Institu
 I have practical experience in Python, Data visualization, and SQL. I am eagerly interested in exploring opportunities like research and projects that can help me grow and improve
 my skills.
 
-🔧 Skills
+**🔧 Skills**
 
 Languages: Java, Python, SQL 
 
