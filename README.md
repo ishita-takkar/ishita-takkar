@@ -10,6 +10,9 @@ my skills.
 
 🔧 Skills
 Languages: Java, Python, SQL 
+
 Frameworks: JUnit 
+
 Libraries: pandas, NumPy, Matplotlib, Seaborn 
+
 Developer Tools: GitHub, IntelliJ Idea, Sequel Pro, Jupyter Notebook
