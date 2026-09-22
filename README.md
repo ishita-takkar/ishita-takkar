@@ -1,7 +1,9 @@
 **Hi, I’m @ishita-takkar 👋**
 
 🎓 **Computer Science & Mathematics @ Ashoka University**
+
 💡 **Minor in Entrepreneurship**
+
 🔄 **Previously Data Science @ UC San Diego**
 
 🌟 **Aspiring FinTech Entrepreneur & Product Builder**
