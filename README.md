@@ -1,11 +1,14 @@
-**👋 Hi, I’m @ishita-takkar**
+**Hi, I’m @ishita-takkar 👋**
 
-🎓 Bachelor of Science in Data Science
+🎓 **Computer Science & Mathematics @ Ashoka University**
+💡 **Minor in Entrepreneurship**
+🔄 **Previously Data Science @ UC San Diego**
 
-📍 University of California, San Diego | La Jolla, CA
+🌟 **Aspiring FinTech Entrepreneur & Product Builder**
 
-🌟 Aspiring Data Scientist
+I’m currently pursuing my undergraduate degree at Ashoka University, studying Computer Science and Mathematics with a minor in Entrepreneurship. Previously, I studied Data Science at the University of California, San Diego.
 
-I am pursuing a degree in Data Science at the Halıcıoğlu Data Science Institute of UC San Diego. I am passionate about Data Analaytics, and implementing data to solve complex issues.
-I have practical experience in Python, Data visualization, and SQL. I am eagerly interested in exploring opportunities like research and projects that can help me grow and improve
-my skills.
+I’m passionate about **FinTech, entrepreneurship, product development, AI, and data-driven problem solving**. I enjoy building projects that combine technology, analytics, and business to solve real-world problems.
+
+💻 **Python • SQL • Data Analysis • Data Visualization • Software Development**
+🚀 **Building, learning, and exploring ideas at the intersection of technology, finance & entrepreneurship.**
